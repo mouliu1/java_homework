@@ -9,9 +9,7 @@ import java.util.LinkedList;
  */
 public class Main {
     static Scanner input = new Scanner(System.in);
-    /*
-    static Node root = new Node(0, null, "root", "");
-     */
+
     static Node root = new Node(0, null, "", "");
 
     public static void main(String[] args) {
